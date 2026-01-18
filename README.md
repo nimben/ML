@@ -1,1 +1,1 @@
-From Crust to Core: Learning Machine Learning step by step.
+Learning Machine Learning step by step.
